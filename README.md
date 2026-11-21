@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=miku0219&theme=dark&hide_border=true&locale=zh_Hant&timezone=UTC-8&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=miku0219&theme=dark&hide_border=true&locale=zh_Hant&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 - 性別：男(Male)
 - 年齡：21
 - 台灣人(from Taiwan)
