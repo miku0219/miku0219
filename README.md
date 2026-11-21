@@ -1,11 +1,11 @@
-## Hi there 👋
+## I'm miku0219.
 
 <!--
 **miku0219/miku0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 性別：男(Male)
+- 年齡：21
+- 台灣人(from Taiwan)
+- 興趣：聽日文歌、看動漫(JPOP, Anime)
+- 學歷：國立中央大學(National Central University)
+- 專業：機械工程學系(Mechanical Engineering)
+- 聯絡：iml940219@gmail.com
